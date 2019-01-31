@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/wangzki03/VPSauto/master/EZmod.sh && chmod +x EZmod.sh && ./EZmod.sh
